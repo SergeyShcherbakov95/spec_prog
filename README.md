@@ -1,2 +1,2 @@
 # spec_prog
-Date science repo
+Лаба по data science на python
